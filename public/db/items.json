@@ -1,0 +1,21 @@
+{
+"itemsData": [
+    {
+      "id": 20,
+      "img": "./images/item.jpg",
+      "price": 69.99,
+      "discount":"",
+      "title": "'Tibia'",
+      "rate":[],
+      "platform":"'PC'",
+      "distribution":"'Steam'",
+      "language":"'Polska'",
+      "pegi":13,
+      "version": 1,
+      "type": "new",
+      "link":"'/game'",
+      "category":"'rpg'",
+      "description": "Świetna gra rpg"
+    }
+  ]
+}

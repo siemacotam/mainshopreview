@@ -1,0 +1,16 @@
+{
+    "usersData": [
+    {
+      "accessLevel": 1,
+      "nameAndSurname": "Rafał Nowak",
+      "email": "1@1.pl",
+      "phone": 231254151,
+      "adress": "Migdałowa 21",
+      "postCodeCity": "62800 kalisz",
+      "items": [],
+      "login": "user",
+      "password": "user",
+      "orders": []
+    }
+  ]
+}
